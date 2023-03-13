@@ -1,0 +1,16 @@
+total 44
+drwxr-xr-x 3 root root 303 Mar 13 11:05 .
+drwxr-xr-x 6 root root 121 Mar 13 10:02 ..
+-rwxr--r-- 1 root root  32 Mar 13 10:18 0-hello_world
+-rwxr--r-- 1 root root  28 Mar 13 10:35 1-confused_smiley
+-rwxr--r-- 1 root root  28 Mar 13 10:40 2-hellofile
+-rwxr--r-- 1 root root  39 Mar 13 10:42 3-twofiles
+-rwxr--r-- 1 root root  35 Mar 13 10:44 4-lastlines
+-rwxr--r-- 1 root root  35 Mar 13 10:47 5-firstlines
+-rwxr--r-- 1 root root  40 Mar 13 10:50 6-third_line
+-rwxr--r-- 1 root root  99 Mar 13 11:02 7-file
+-rwxr--r-- 1 root root  36 Mar 13 11:05 8-cwd_state
+drwxr-xr-x 5 root root  90 Mar 13 10:08 alx-system_engineering-devops
+-rw-r--r-- 1 root root  12 Mar 13 11:03 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   0 Mar 13 11:05 ls_cwd_content
+-rw-r--r-- 1 root root  25 Mar 13 10:15 README.md
